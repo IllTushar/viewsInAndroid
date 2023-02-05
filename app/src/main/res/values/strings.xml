@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PraticeView</string>
+    <string-array name="countiries">
+        <item>Dubai</item>
+        <item>America</item>
+        <item>Japan</item>
+        <item>India</item>
+        <item>China</item>
+        <item>UAE</item>
+        <item>Saudi Arab</item>
+    </string-array>
+</resources>
